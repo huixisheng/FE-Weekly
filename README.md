@@ -5,13 +5,6 @@ FE-weekly
 
 ## 定时更新Weekly列表
 
-- [JavaScript Weekly](http://javascriptweekly.com/)每周定时更新，全是英语。[JavaScript-Weekly-Chinese](https://github.com/weixiaobo88/JavaScript-Weekly-Chinese)对这这个Weekly翻译了部分，对英语有恐怖心里的可以看看，最后更新时间为16-01-06
-- [Node.js Weekly](http://nodeweekly.com/)
-- [HTML5 Weekly](http://html5weekly.com/)
-- [CSS Weekly](http://css-weekly.com/)
-- [Web Tools Weekly](http://webtoolsweekly.com/)
-- [Web Design Weekly](http://web-design-weekly.com/)
-- [ng-newsletter](http://www.ng-newsletter.com/)
 - [码农周刊](http://weekly.manong.io/issues/)
 - [奇舞周刊](http://www.75team.com/weekly/)
 - [FEX技术周刊](http://fex.baidu.com/weekly/)
@@ -20,7 +13,16 @@ FE-weekly
 - [Web技术日报](http://web.memect.com/)首页还有其他语言的日报
 - [码农周刊](http://weekly.manong.io/issues/)是一份专为程序员打造的IT技术周刊。我们会为你精选一周IT技术干货，每周一发送，完全免费。另外还有[开发者头条网站](http://toutiao.io/),《开发者头条》客户端。[为什么要做《开发者头条》客户端？](http://blog.manong.io/why-create-an-app-for-programmers/)
 - [fir.im Weekly](http://blog.fir.im/tag/weekly/)
-- <a href="https://exp-team.github.io/categories/weekly/">category: weekly | exp team</a>
+- <a href="https://exp-team.github.io/categories/weekly/">weekly | exp team</a>
+- [JavaScript Weekly](http://javascriptweekly.com/)每周定时更新，全是英语。[JavaScript-Weekly-Chinese](https://github.com/weixiaobo88/JavaScript-Weekly-Chinese)对这这个Weekly翻译了部分，对英语有恐怖心里的可以看看，最后更新时间为16-01-06
+- [Node.js Weekly](http://nodeweekly.com/)
+- [HTML5 Weekly](http://html5weekly.com/)
+- [CSS Weekly](http://css-weekly.com/)
+- [Web Tools Weekly](http://webtoolsweekly.com/)
+- [Web Design Weekly](http://web-design-weekly.com/)
+- [ng-newsletter](http://www.ng-newsletter.com/)
+- [Sidebar](http://sidebar.io)
+- [SegmentFault 精选可在 通知提醒 修改设置](https://segmentfault.com)
 
 ## github issues ##
 
