@@ -6,6 +6,7 @@ FE-weekly
 
 ## 定时更新Weekly列表
 
+- [:octocat:HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣 https://hellogithub.com
 - [码农周刊](http://weekly.manong.io/issues/)是一份专为程序员打造的IT技术周刊。我们会为你精选一周IT技术干货，每周一发送，完全免费。另外还有[开发者头条网站](http://toutiao.io/),《开发者头条》客户端。[为什么要做《开发者头条》客户端？](http://blog.manong.io/why-create-an-app-for-programmers/)
 - [奇舞周刊](http://www.75team.com/weekly/)领略前端技术，阅读奇舞周刊。收集每周前端精华文章，集结成册，每周五发送至您的邮箱。非常准时
 - [FEX技术周刊](http://fex.baidu.com/weekly/)每周一推送
