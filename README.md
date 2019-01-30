@@ -16,10 +16,15 @@ FE-weekly
 - zenany/weekly: 汇总平时看到的好文章，前端技术 & 产品研发为主... https://github.com/zenany/weekly
 - BooheeFE/weekly: 📝 薄荷前端周刊 Boohee Front End Team Weekly https://github.com/BooheeFE/weekly
 - FreeCodeCamp-Chengdu/IT-Technology-weekly: FCC 成都社区 - 技术周刊 https://github.com/FreeCodeCamp-Chengdu/IT-Technology-weekly
+- 某熊的全栈之路 - 知乎 https://zhuanlan.zhihu.com/wxyyxc1992
+- 前端周刊 - 知乎 https://zhuanlan.zhihu.com/feweekly
+- IT技术分享 - 知乎 https://zhuanlan.zhihu.com/itlion114 分享 IT （前端）技术与工具、设计等原创或翻译文章。
+- ELSE - 知乎 https://zhuanlan.zhihu.com/itech
+- 阿里云中台前端/全栈团队专栏 - 知乎 https://zhuanlan.zhihu.com/aliyun
 
-
-## IOS ##
+## 移动端 ##
 - SwiftOldDriver/iOS-Weekly: 🇨🇳 老司机 iOS 周报 https://github.com/SwiftOldDriver/iOS-Weekly
+- Android博客周刊 http://www.androidblog.cn/
 
 
 ## 早报 ##
@@ -28,6 +33,7 @@ FE-weekly
 - wubaiqing/zaobao: 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。 https://github.com/wubaiqing/zaobao
 - zaobao · alibaba/ice Wiki https://github.com/alibaba/ice/wiki/zaobao 飞冰早报 http://fe.jskou.com/ice
 
+## 待归档
 - [:octocat:HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣 https://hellogithub.com
 - [码农周刊](http://weekly.manong.io/issues/)是一份专为程序员打造的IT技术周刊。我们会为你精选一周IT技术干货，每周一发送，完全免费。另外还有[开发者头条网站](http://toutiao.io/),《开发者头条》客户端。[为什么要做《开发者头条》客户端？](http://blog.manong.io/why-create-an-app-for-programmers/)
 - [奇舞周刊](http://www.75team.com/weekly/)领略前端技术，阅读奇舞周刊。收集每周前端精华文章，集结成册，每周五发送至您的邮箱。非常准时
@@ -46,6 +52,7 @@ FE-weekly
 - [ng-newsletter](http://www.ng-newsletter.com/)
 - [Sidebar](http://sidebar.io)
 - [SegmentFault 精选可在 通知提醒 修改设置](https://segmentfault.com)
+- Android 开发值得订阅的日报和周刊 | Tikitoo Blog http://tiki.cat/2016/04/26/android-worth-subscribe-daily-weekly/
 
 ## github issues ##
 
