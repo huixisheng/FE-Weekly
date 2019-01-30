@@ -1,10 +1,32 @@
 FE-weekly
 -----
 
-书签中前端值得关注的周刊整理，排名不分先后，定期添加和维护。
+整理前端值得关注的周刊，定期维护。与时俱进，前端技术日新月异，保持初心，持续学习。
 
 
-## 定时更新Weekly列表
+## JavaScript
+- leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know. https://github.com/leonardomso/33-js-concepts
+- mqyqingfeng/Blog: 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 https://github.com/mqyqingfeng/Blog
+
+
+## 综合 ##
+- iv-web/weekly: 由腾讯IVWEB出品的《IVWEB技术周刊》 https://github.com/iv-web/weekly
+- ruanyf/weekly: 技术分享周刊，每周五发布 https://github.com/ruanyf/weekly
+- dt-fe/weekly: 前端精读周刊 https://github.com/dt-fe/weekly
+- zenany/weekly: 汇总平时看到的好文章，前端技术 & 产品研发为主... https://github.com/zenany/weekly
+- BooheeFE/weekly: 📝 薄荷前端周刊 Boohee Front End Team Weekly https://github.com/BooheeFE/weekly
+- FreeCodeCamp-Chengdu/IT-Technology-weekly: FCC 成都社区 - 技术周刊 https://github.com/FreeCodeCamp-Chengdu/IT-Technology-weekly
+
+
+## IOS ##
+- SwiftOldDriver/iOS-Weekly: 🇨🇳 老司机 iOS 周报 https://github.com/SwiftOldDriver/iOS-Weekly
+
+
+## 早报 ##
+- 微信公号 前端早读课
+- Issues · sorrycc/zaobao https://github.com/sorrycc/zaobao/issues
+- wubaiqing/zaobao: 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。 https://github.com/wubaiqing/zaobao
+- zaobao · alibaba/ice Wiki https://github.com/alibaba/ice/wiki/zaobao 飞冰早报 http://fe.jskou.com/ice
 
 - [:octocat:HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣 https://hellogithub.com
 - [码农周刊](http://weekly.manong.io/issues/)是一份专为程序员打造的IT技术周刊。我们会为你精选一周IT技术干货，每周一发送，完全免费。另外还有[开发者头条网站](http://toutiao.io/),《开发者头条》客户端。[为什么要做《开发者头条》客户端？](http://blog.manong.io/why-create-an-app-for-programmers/)
@@ -34,35 +56,4 @@ FE-weekly
 - [每日福利](https://github.com/fenbility/daily-welfare)[查看2016年2月之后的每日福利请移步：前端百科 - 分享列表](https://github.com/fenbility/daily-welfare)
 
 
-## 不再更新维护Weekly列表
-- [Mozilla Hack Weekly](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
-- [Responsive Design Weekly](http://responsivedesignweekly.com/)
-- [Web Dev Weekly](http://www.webdevweekly.com/)
-- [Backbone Weekly](http://backboneweekly.com/)
-- [Web Performance News](http://www.webperformancenews.com/)
-- [feweekly](http://www.feweekly.com/)
-- [前端乱炖周刊](http://www.html-js.com/static/htmljs-weekly-1.html)
-- [http://www.gbin1.com/tutorials/gbcollection/](GBin1月刊)
-- <a href="http://www.gbin1.com/tutorials/gbcollection/2013february/">2013年二月gbin1月刊</a>
-- <a href="http://blog.jobbole.com/category/weekly/">伯乐周刊 - 博客 - 伯乐在线</a>
-- <a href="http://haoweekly.memect.com/">好东西周报 | haoweekly.memect.com | 好东西传送门出品</a>
-- <a href="http://blog.manong.io/">技术、产品、营销 - 码农io官方博客</a>
-- <a href="http://toutiao.io/">开发者头条 - 开发者的首选阅读分享平台</a>
-- <a href="http://www.z-index.cc/category/web%e8%81%94%e7%9b%9f%e6%97%a9%e6%8a%a5/">联盟早报 | z-index</a>
-- <a href="http://www.html-js.com/static/htmljs-weekly-1.html">乱炖周刊第一期 - 前端乱炖情人节巨献</a>
-- <a href="http://ilikecss.com/blog/web-design-and-front-end-resource-weekly-n-50/">网页设计和前端开发资源周刊n.50</a>
-- <a href="http://gold.xitu.io/entry/569857fa60b26385cc8ceb96">稀土掘金：fir.im weekly - 当技术成为一种 “武器”</a>
-- <a href="http://www.feweekly.com/roundups/index">周刊管理 - 前端周刊</a>
-- <a href="http://blog.fir.im/tag/weekly/">fir.im weekly - page 1 - 飞行日志</a>
-- <a href="http://javascriptweekly.com/">javascript weekly: a free, weekly email newsletter</a>
-- <a href="https://github.com/jsfront/month">jsfront/month: 知识月刊</a>
-- <a href="http://ux.f2er.net/">ux小站,前端周刊,用户体验,ued,ucd</a>
-- <a href="http://www.web20share.com/category/web20-topics">web2.0专题|天涯海阁|web2.0share</a>
-- <a href="http://kan.weibo.com/kan/3490119760364253">web前端周刊|徐_钱的微刊|微刊 - 悦读喜欢</a>
-- <a href="http://aotu.jd.com/express/#">o2 - 前端快报</a>
-- [每周播报](http://dickeylth.github.io/tags/F2E%20Weekly/)
-
-
-## 欢迎添加 ##
-
-- [https://github.com/huixisheng/FE-Weekly/issues](https://github.com/huixisheng/FE-Weekly/issues)
+- [欢迎补充](https://github.com/huixisheng/FE-Weekly/issues)
