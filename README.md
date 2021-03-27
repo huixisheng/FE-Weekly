@@ -21,17 +21,31 @@ FE-weekly
 - IT技术分享 - 知乎 https://zhuanlan.zhihu.com/itlion114 分享 IT （前端）技术与工具、设计等原创或翻译文章。
 - ELSE - 知乎 https://zhuanlan.zhihu.com/itech
 - 阿里云中台前端/全栈团队专栏 - 知乎 https://zhuanlan.zhihu.com/aliyun
+- [txd-team/monthly: 前端领域分享之每月好奇新事物](https://github.com/txd-team/monthly)
+- Zoo Weekly - 政采云前端小报 [https://weekly.zoo.team/](https://weekly.zoo.team/)
+- toutiaoio/weekly.manong.io: 码农周刊 - 史上最全的编程学习资料合集（持续更新） [https://github.com/toutiaoio/weekly.manong.io](https://github.com/toutiaoio/weekly.manong.io)
+- 潮流最前端·周刊 · Yuque [https://www.yuque.com/alibabaf2e/weekly](https://www.yuque.com/alibabaf2e/weekly)
+- 前端微志 - 知乎 [https://www.zhihu.com/column/zollero](https://www.zhihu.com/column/zollero)
+- 前端爱好者周刊 shfshanyue/weekly [https://github.com/shfshanyue/weekly](https://github.com/shfshanyue/weekly)
 
 ## 移动端 ##
 - SwiftOldDriver/iOS-Weekly: 🇨🇳 老司机 iOS 周报 https://github.com/SwiftOldDriver/iOS-Weekly
 - Android博客周刊 http://www.androidblog.cn/
+- [iOS Dev Weekly - The best iOS development links, every Friday](https://iosdevweekly.com/)
+- [Mobile Dev Weekly](https://mobiledevweekly.com/)
+- [Weekly Dev Tips](https://www.weeklydevtips.com/)
 
+## 后端 ##
+- Docker周报 http://weekly.dockone.io/issues
 
 ## 早报 ##
 - 微信公号 前端早读课
 - Issues · sorrycc/zaobao https://github.com/sorrycc/zaobao/issues
 - wubaiqing/zaobao: 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。 https://github.com/wubaiqing/zaobao
 - zaobao · alibaba/ice Wiki https://github.com/alibaba/ice/wiki/zaobao 飞冰早报 http://fe.jskou.com/ice
+- [D2 Daily | D2 日报](https://daily.fairyever.com/)
+- [HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://hellogithub.com/)
+- [印记中文周刊 | 印记中文周刊](https://weekly.docschina.org/)
 
 ## 待归档
 - [:octocat:HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享、推荐 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣 https://hellogithub.com
@@ -51,6 +65,7 @@ FE-weekly
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [ng-newsletter](http://www.ng-newsletter.com/)
 - [Sidebar](http://sidebar.io)
+- [WebOps Weekly](https://webopsweekly.com/)
 - [SegmentFault 精选可在 通知提醒 修改设置](https://segmentfault.com)
 - Android 开发值得订阅的日报和周刊 | Tikitoo Blog http://tiki.cat/2016/04/26/android-worth-subscribe-daily-weekly/
 
